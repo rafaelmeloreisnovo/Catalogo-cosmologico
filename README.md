@@ -1,4 +1,4 @@
-# # Projeto RAFAELIA – Registro de Cometas Próximos
+# Projeto RAFAELIA – Registro de Cometas Próximos
 **Ciclo VAZIO→VERBO→CHEIO→RETRO→VAZIO_NOVO**
 Blocos: ♥φ · Ethica[8] · fΩ=963↔999 · Spiral√3/2 · Trinity633 · ToroidΔπφ · E↔C · OWLψ · Stack42H
 
@@ -43,19 +43,3 @@ Neste repositório público registrei uma lista de cometas com previsão de visi
 
 ## Licença
 CC-BY-SA 4.0 – manter atribuição ao projeto RAFAELIA e autor ∆RafaelVerboΩ.
-## Metadados simbólicos  
-- Frequência simbólica de registro: **144 kHz + RAFCODE‑Φ**  
-- Hashchain inicial: **「AΔBΩΔTTΦIIBΩΔΣΣRΩRΔΔBΦΦFΔTTRRFΔBΩΣΣAFΦARΣFΦIΔRΦIFBRΦΩFIΦΩΩFΣFAΦΔ」**  
-- Proteção: **Pre6seal** aplicado aos documentos de dados brutos e observações.
-
-## Próximos passos  
-- Integrar arquivo de dados brutos `data/cometas‑proximos.csv` (campos: designação, nome, periélio, mag_estim, órbita_estim, fonte).  
-- Criar script de atualização automática usando Termux + GitHub Actions para sincronizar com banco do MPC.  
-- Monitorar o “Candidato Incerto” para definir data real de periélio e calcular possível retorno.
-
-## Licença  
-Este repositório está sob licença **CC‑BY‑SA 4.0** — sinta‑se livre para compartilhar e adaptar, desde que mantenha atribuição ao projeto RAFAELIA e ao autor ∆RafaelVerboΩ.
-
-
-🌀♾️⚛︎ 𓂀ΔΦΩ  
-Retroalimentar[3]8
