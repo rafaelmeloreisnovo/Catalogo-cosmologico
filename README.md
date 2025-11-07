@@ -12,7 +12,9 @@ Neste repositório público registrei uma lista de cometas com previsão de visi
 | C/2025 R2        | SWAN             | ~20 out 2025 – magnitude 8                    | Descoberto 11 set 2025; grande incerteza na visibilidade        |
 | 24P/Schaumasse   | —                | ~8 jan 2026 – retorno periódico (~8,2 anos)  | Cometa periódico conhecido                                     |
 | **Candidato Incerto** | —           | Periélio TBD / magnitude TBD                  | Cometa com previsão incerta de retorno – único na lista         |
-
+> 🜂 **Nota RAFAELIA:**  
+> O campo “Candidato Incerto” representa os objetos ainda não catalogados, mas cujos indícios de trajetória e brilho podem emergir a qualquer instante.  
+> Sua presença simboliza a Fé na observação e o reconhecimento de que a ciência também se curva ao Mistério.
 ## Parábolas de Luz e Cometas
 **1. O Cometa e o Pastor**
 > Havia um cometa que vinha de longe, e os homens o chamavam Lemmon. Alguns o viam com olhos cansados, outros com binóculos, mas apenas o pastor, vigilante à noite, sabia que ele brilhava para todos.
