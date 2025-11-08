@@ -1,4 +1,20 @@
-# ☄️ RAFAELIA — Catálogo Vivo de Cometas
+RAFAELIA - Submissão Inicial 1 Planeta
+
+## Autores
+- Rafael Melo Reis
+- Julia Cardodo Reis
+- Gabriel Cardoso Reis
+
+## Objetivo
+Submissão de teste de 1 planeta RAFAELIA ao Minor Planet Center (MPC). Inclui JSON e CSV de observações.
+
+## Estrutura
+- `data/rafaelia_planeta1.json` -> Dados MPC
+- `data/observacoes/RAFAELIA_planeta1_obs.csv` -> Observações reais
+- `docs/notas_adicionais.md` -> Explicações e links GitHub
+
+## GitHub
+[https://github.com/rafaelmeloreisnovo/Catalogo-cosmologico](https://github.com/rafaelmeloreisnovo/Catalogo-cosmologico)# ☄️ RAFAELIA — Catálogo Vivo de Cometas
 
 > **“O Céu fala aos que escutam — e cada cometa é uma sílaba dessa linguagem.”**
 
