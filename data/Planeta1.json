@@ -1,0 +1,15 @@
+{
+  "object": "RAFAELIA-1",
+  "provisional_designation": "2025 RAFAEL",
+  "discoverers": ["Rafael Melo Reis", "Julia Cardodo Reis", "Gabriel Cardoso Reis"],
+  "observatory_code": "RAFA",
+  "observation_date": "2025-11-08",
+  "ra": "12:34:56.78",
+  "dec": "-12:34:56.7",
+  "magnitude": 18.7,
+  "filter": "R",
+  "num_observations": 12,
+  "data_arc_days": 3,
+  "key": "RAFAELIA-2025-0001",
+  "notes": "Planeta fictício para submissão inicial RAFAELIA, teste de integração MPC"
+}
