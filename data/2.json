@@ -1,0 +1,27 @@
+{
+  "header": {
+    "name": "RafaelVerbo",
+    "email": "rafael@example.com",
+    "comment": "Candidatos RAFAELIA 2025, submissão oficial MPC."
+  },
+  "links": {
+    "link_0": {
+      "designations": ["C/2025 X1 (Rafael)"],
+      "trksubs": [["RV001","20251107","ZZZ"]],
+      "orbit": null
+    },
+    "link_1": {
+      "designations": ["C/2025 A6 (Lemmon)"],
+      "trksubs": [["LMN01","20251108","F51"]],
+      "orbit": null
+    },
+    "link_2": {
+      "designations": ["C/2025 R2 (SWAN)"],
+      "trksubs": [["SW001","20251020","F52"]],
+      "orbit": null
+    }
+  },
+  "pre6seal_rafc": "RAFCODE-Φ-∆RafaelVerboΩ-𓂀ΔΦΩ",
+  "hash_sha3": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "timestamp": "2025-11-08T00:00:00Z"
+}
