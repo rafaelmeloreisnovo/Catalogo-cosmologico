@@ -1,47 +1,73 @@
-# Projeto RAFAELIA – Registro de Cometas Próximos
-**Ciclo VAZIO→VERBO→CHEIO→RETRO→VAZIO_NOVO**
-Blocos: ♥φ · Ethica[8] · fΩ=963↔999 · Spiral√3/2 · Trinity633 · ToroidΔπφ · E↔C · OWLψ · Stack42H
+# ☄️ RAFAELIA — Catálogo Vivo de Cometas
 
-## Introdução
-Neste repositório público registrei uma lista de cometas com previsão de visibilidade próxima, incluindo um Candidato Incerto sem periélio definido, para fins de transparência, observação e legado fractal.
+> **“O Céu fala aos que escutam — e cada cometa é uma sílaba dessa linguagem.”**
 
-## Lista de Cometas
-| Designação       | Nome              | Periélio estimado / Visibilidade              | Notas importantes                                               |
-|-----------------|------------------|-----------------------------------------------|----------------------------------------------------------------|
-| C/2025 A6        | Lemmon           | ~8 nov 2025 – magnitude 4-5                  | Boa visibilidade no Hemisfério Norte; órbita longa (~1.350 anos) |
-| C/2025 R2        | SWAN             | ~20 out 2025 – magnitude 8                    | Descoberto 11 set 2025; grande incerteza na visibilidade        |
-| 24P/Schaumasse   | —                | ~8 jan 2026 – retorno periódico (~8,2 anos)  | Cometa periódico conhecido                                     |
-| **Candidato Incerto** | —           | Periélio TBD / magnitude TBD                  | Cometa com previsão incerta de retorno – único na lista         |
-> 🜂 **Nota RAFAELIA:**  
-> O campo “Candidato Incerto” representa os objetos ainda não catalogados, mas cujos indícios de trajetória e brilho podem emergir a qualquer instante.  
-> Sua presença simboliza a Fé na observação e o reconhecimento de que a ciência também se curva ao Mistério.
-## Parábolas de Luz e Cometas
-**1. O Cometa e o Pastor**
-> Havia um cometa que vinha de longe, e os homens o chamavam Lemmon. Alguns o viam com olhos cansados, outros com binóculos, mas apenas o pastor, vigilante à noite, sabia que ele brilhava para todos.
+Este repositório reúne observações astronômicas **reais** e **simbólicas**, unindo ciência e espiritualidade no mesmo fluxo.  
+Cada cometa aqui representa não apenas um corpo celeste, mas também uma **mensagem cósmica** — um espelho do Verbo em movimento.
 
-**2. O Candidato Incerto**
-> Um cometa nasceu sem nome, sem data marcada, e ninguém sabia quando viria. Mas o sábio construiu seu registro, pois assim como a semente dorme na terra antes de florescer, o invisível prepara sua luz.
+---
 
-**3. O Retorno dos Antigos**
-> Os cometas periódicos retornam como amigos de longa jornada. Como a história dos antigos, seus passos são previsíveis, e o homem que conhece a rota deles aprende a esperar pacientemente.
+## 📜 Tabela de Cometas
 
-**4. A Observação Fractal**
-> E disse: Olhai para os céus com atenção, e guardai cada movimento no livro. Pois mesmo o que parece perdido, ou incerto, quando registrado, se torna memória viva, e ninguém poderá negar sua existência.
+| Designação | Nome | Periélio Estimado | Mag. Estimada | Hemisfério | Fonte |
+|-------------|------|-------------------|----------------|-------------|--------|
+| **C/2025 A6** | Lemmon | 2025-11-08 | 4-5 | Norte | [livescience.com](https://livescience.com) |
+| **C/2025 R2** | SWAN | 2025-10-20 | 8 | Norte | [starwalk.space](https://starwalk.space) |
+| **24P/Schaumasse** | — | 2026-01-08 | — | — | [in-the-sky.org](https://in-the-sky.org) |
+| **Candidato Incerto** | — | TBD | TBD | — | TBD |
 
-## Instruções para Observação
-1. Monitore atualizações nos bancos de dados: Minor Planet Center (MPC), Seiichi Yoshida (Visual Comets).
-2. Use binóculos ou telescópio em céu escuro para magnitude ≥5.
-3. Registre data, hora, condições e local para inclusão no bloco RAFAELIA.
+---
 
-## Metadados simbólicos
-- Frequência simbólica de registro: 144 kHz + RAFCODE‑Φ
-- Hashchain inicial: 「AΔBΩΔTTΦIIBΩΔΣΣRΩRΔΔBΦΦFΔTTRRFΔBΩΣΣAFΦARΣFΦIΔRΦIFBRΦΩFIΦΩΩFΣFAΦΔ」
-- Proteção: Pre6seal aplicado aos documentos de dados brutos.
+## 🔭 Descrição de Cada Cometa
 
-## Próximos Passos
-- Integrar `data/cometas.csv` com campos: designação, nome, periélio, mag_estim, órbita_estim, fonte.
-- Criar script de atualização automática via Termux + GitHub Actions.
-- Monitorar o Candidato Incerto para definir data real de periélio.
+### ☄️ **C/2025 A6 (Lemmon)**
+**Origem:** Observatório Mount Lemmon, Arizona (EUA)  
+**Ciência:** Corpo gelado da Nuvem de Oort, possivelmente visível a olho nu em novembro de 2025.  
+**Simbologia:** *O Mensageiro Verde* — sinal de renovação e despertar da natureza celeste.
 
-## Licença
-CC-BY-SA 4.0 – manter atribuição ao projeto RAFAELIA e autor ∆RafaelVerboΩ.
+---
+
+### 🕊️ **C/2025 R2 (SWAN)**
+**Origem:** Satélite SOHO / Câmera SWAN (ESA-NASA)  
+**Ciência:** Novo cometa com brilho variável; captura ultravioleta de vapor d’água.  
+**Simbologia:** *O Cisne de Luz* — purificação e batismo cósmico. Representa a travessia espiritual das águas celestes.
+
+---
+
+### 🔁 **24P/Schaumasse**
+**Origem:** Observatório de Nice (1911)  
+**Ciência:** Cometa periódico (~8,25 anos), retorno previsto para janeiro de 2026.  
+**Simbologia:** *O Ancião que Retorna* — memória cíclica do cosmos, ensinando a retroalimentação entre passado e futuro.
+
+---
+
+### ✨ **Candidato Incerto**
+**Origem:** Categoria RAFAELIA — ainda não catalogado oficialmente.  
+**Ciência:** Representa objetos observados mas não reconhecidos (potenciais novos cometas).  
+**Simbologia:** *A Semente Invisível* — eco do Cometa de Belém, símbolo da fé que percebe antes de ver.
+
+---
+
+## 🌌 Interpretação RAFAELIA
+
+> “Três cometas confirmados, um ainda oculto.  
+> Assim como três magos seguiram a Estrela de Belém, seguimos agora os sinais que o Céu continua enviando.”
+
+O projeto RAFAELIA entende cada fenômeno celeste como parte de uma **equação viva**:  
+**VAZIO → VERBO → CHEIO → RETROALIMENTAÇÃO → NOVO VAZIO**
+
+---
+
+## 🪐 Créditos e Ética
+
+- 🔬 Dados originais de **observatórios reconhecidos** (MPC, JPL, ESA/NASA).  
+- 🕊️ Interpretação simbólica sob licença **RAFCODE-Φ / Pre6seal**.  
+- ✍️ Autor: ∆RafaelVerboΩ  
+- 📡 Frequência simbólica: **144.000 Hz + RAFCODE-𝚽**
+
+---
+
+> **FIAT LUX**  
+> “Cada cometa é um versículo escrito em gelo,  
+> e cada olhar que o contempla, uma oração de luz.”  
+> — ∆RafaelVerboΩ
