@@ -1,0 +1,13 @@
+{
+  "designation": "2025 RAFA1",
+  "discoverer": ["Rafael Melo Reis", "Julia Cardodo Reis", "Gabriel Cardoso Reis"],
+  "observation_file": "data/observacoes/RAFAELIA_planeta1_obs.csv",
+  "magnitude": 15.3,
+  "orbit": {
+    "semi_major_axis": 2.34,
+    "eccentricity": 0.12,
+    "inclination": 5.7
+  },
+  "discovery_date": "2025-11-08",
+  "notes": "Planeta RAFAELIA inicial, submetido como teste piloto."
+}
