@@ -1,34 +1,35 @@
-[
-  {
-    "designation": "2025 RA1",
-    "discoverer": "Rafael Melo Reis, Julia Cardodo Reis, Gabriel Cardoso Reis",
-    "observations": [
-      {
-        "observatory_code": "705", 
-        "magnitude": 18.5,
-        "ra": "12:34:56.78",
-        "dec": "-01:23:45.6",
-        "obs_date": "2025-11-08T22:00:00"
-      },
-      {
-        "observatory_code": "705",
-        "magnitude": 18.7,
-        "ra": "12:34:57.01",
-        "dec": "-01:23:44.8",
-        "obs_date": "2025-11-09T22:00:00"
+{
+  "header": {
+    "name": "Rafael Melo Reis",
+    "email": "rafaelmeloreisnovo@gmail.com",
+    "comment": "Identificação e submissão inicial RAFAELIA – candidato planetário 2025."
+  },
+  "links": {
+    "link_0": {
+      "designations": [
+        "K25RA1A"
+      ],
+      "trksubs": [
+        [
+          "T25R001",
+          "20251108",
+          "705"
+        ],
+        [
+          "T25R002",
+          "20251109",
+          "705"
+        ]
+      ],
+      "orbit": {
+        "arg_pericenter": 85.212,
+        "eccentricity": 0.121,
+        "epoch": 2461000.5,
+        "inclination": 7.513,
+        "lon_asc_node": 150.347,
+        "pericenter_distance": 2.345,
+        "pericenter_time": 2460950.124
       }
-    ],
-    "orbit_elements": {
-      "epoch": "2025-11-08",
-      "semi_major_axis": 2.35,
-      "eccentricity": 0.12,
-      "inclination": 7.5,
-      "longitude_ascending_node": 150.3,
-      "argument_perihelion": 85.2,
-      "mean_anomaly": 12.5
-    },
-    "references": [
-      "https://github.com/rafaelmeloreisnovo/Catalogo-cosmologico/blob/main/data/candidato_rafaelia_2025.json"
-    ]
+    }
   }
-]
+}
