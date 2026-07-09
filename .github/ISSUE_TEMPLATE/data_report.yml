@@ -1,0 +1,26 @@
+name: "Data Report / Correction"
+description: "Report incorrect observation data or request a catalog update."
+labels: ["data", "triage"]
+assignees: ["rafaelmeloreisnovo"]
+body:
+  - type: input
+    id: object
+    attributes:
+      label: "Object designation"
+      placeholder: "C/2025 A6 or 24P/Schaumasse"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: "Describe the issue"
+      placeholder: "The perihelion date for... is incorrect. Correct value from MPC is..."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "Authoritative source"
+      placeholder: "MPC, JPL Horizons, IAU CBAT..."
+    validations:
+      required: true
