@@ -1,5 +1,9 @@
 # RAFAELIA — Catálogo Vivo de Cometas e Corpos Celestes
 
+**Estado:** `ACTIVE`  
+**Proprietário lógico:** `research-governance`  
+**Repositório:** [`rafaelmeloreisnovo/Catalogo-cosmologico`](https://github.com/rafaelmeloreisnovo/Catalogo-cosmologico)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![Domain](https://img.shields.io/badge/Domain-Astronomia%20%7C%20MPC%20Data-purple)](data/)
 [![Research](https://img.shields.io/badge/Research-RAFAELIA%20Ecosystem-orange)](https://github.com/rafaelmeloreisnovo/ChipQuantum)
