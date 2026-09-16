@@ -4,7 +4,8 @@
 **Proprietário lógico:** `research-governance`  
 **Repositório:** [`rafaelmeloreisnovo/Catalogo-cosmologico`](https://github.com/rafaelmeloreisnovo/Catalogo-cosmologico)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![Code License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
+[![Content License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE-CONTENT)
 [![Domain](https://img.shields.io/badge/Domain-Astronomia%20%7C%20MPC%20Data-purple)](data/)
 [![Research](https://img.shields.io/badge/Research-RAFAELIA%20Ecosystem-orange)](https://github.com/rafaelmeloreisnovo/ChipQuantum)
 
@@ -86,7 +87,7 @@ Cada cometa representa um ciclo: nascimento (periélio), travessia (coma), retor
 
 - Dados científicos: observatórios reconhecidos (MPC, JPL, ESA/NASA)
 - Interpretação simbólica: RAFAELIA Framework (RAFCODE-Φ)
-- Licença: MIT — ver [`LICENSE.md`](LICENSE.md)
+- Licenciamento: código MIT; conteúdo autoral CC BY-SA 4.0; dados de terceiros preservam seus próprios termos — ver [`LICENSE.md`](LICENSE.md).
 
 ```bibtex
 @misc{catalogocosmologico2025,
